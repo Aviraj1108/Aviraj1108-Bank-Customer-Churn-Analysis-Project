@@ -1,1 +1,3 @@
-# Aviraj1108-Bank-Customer-Churn-Analysis-Project
+# Aviraj1108-Bank-Customer-Churn-Analysis-Project 
+
+Conducted an in-depth analysis of bank customer churn using Power BI to identify patterns and key drivers of churn. The project involved visualizing and interpreting data on demographic factors, product usage, and customer activity, revealing critical insights such as a 60.37% churn rate among males, 83% churn rate for customers with 3 products, and a 51% churn rate in the 46-55 age group. Delivered actionable recommendations to improve retention by targeting inactive customers (34.7% churn rate) and optimizing product offerings for high-risk segments. The analysis empowered stakeholders with data-driven strategies to enhance customer engagement and reduce churn rates effectively.
